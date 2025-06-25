@@ -1,12 +1,27 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ReactJs practice from BroCode : https://www.youtube.com/watch?v=CgkZ7MvWUAA
 
-Currently, two official plugins are available:
+Includes the following Projects: To-Do-List, Digital watch, Stop-Watch, Color-Picker
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Learnt:
+React tutorial for beginners ⚛️
+card components 🃏
+add CSS styles 🎨
+props📧 (*defaultProps are now deprecated in React 19+ )
+conditional rendering ❓
+render lists 📃
+click events 👆
+useState() hook 🎣
+onChange event handler 🚦
+Color picker app 🖌
+updater functions 🔄
+update OBJECTS in state 🚗
+update ARRAYS in state 🍎
+update ARRAY of OBJECTS in state 🚘
+to-do list app ☝
+useEffect() hook 🌟
+digital clock app 🕒
+useContext() hook 🧗‍♂️
+useRef() hook 🗳️
+stopwatch app ⏱
